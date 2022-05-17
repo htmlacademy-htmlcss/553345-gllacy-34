@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Павел Байбиков](https://up.htmlacademy.ru/htmlcss/34/user/553345).
-* Наставник: [Михаил Кислый] (https://htmlacademy.ru/profile/smart-grizzly).
+* Наставник: [Михаил :bear: Кислый] (https://htmlacademy.ru/profile/smart-grizzly).
 
 ---
 
